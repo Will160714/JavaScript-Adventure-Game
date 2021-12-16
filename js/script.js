@@ -102,7 +102,7 @@ const textAdventure = [
       },
       {
         buttontext: "Head back to the cave.",
-        message: console.log("Try again. Percy became lost and eventually lost his life."),
+        message: console.log("Try again"),
       },
     ],
   },
